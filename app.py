@@ -126,7 +126,7 @@ label_encoders   = bundle["label_encoders"]
 with st.sidebar:
     # ── Replace the line below with your actual university logo ──
     # st.image("university_logo.png", use_container_width=True)
-    st.image(r"D:\lumi\images.jpg", use_container_width=True)    
+    st.image(r"images.jpg", use_container_width=True)    
     st.markdown('<div class="sidebar-divider"></div>', unsafe_allow_html=True)
 
     st.markdown('<p class="sidebar-title">Student Name</p>', unsafe_allow_html=True)
